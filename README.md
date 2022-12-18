@@ -5,6 +5,7 @@
 
 TYPO3 CMS Extension "iconpack_feather"
 
+> Note: Since these icons are only available as SVG, it is currently not possible to use them in the CKEditor.
 
 ## What does it do?
 
@@ -25,7 +26,7 @@ This extension contains an icon set of another author. Please note the license t
 | Name    | *Feather Icons*                            |
 | :------ | :----------------------------------------- |
 | Type    | SVG                                        |
-| Version | *4.2.8*                                    |
+| Version | *4.29.0*                                   |
 | Source  | https://feathericons.com/                  |
 | License | [MIT](https://opensource.org/licenses/MIT) |
 
