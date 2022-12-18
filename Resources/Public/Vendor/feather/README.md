@@ -1,6 +1,6 @@
 # Feather Icons
 
-Version: *4.2.8*
+Version: *4.29.0*
 
 Source: https://feathericons.com/
 
