@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Iconpack: Feather Icons',
-    'description' => 'This Extension registers an Iconpack-Provider for `EXT:iconpack` which allows you to use the "Feather Icons" in TYPO3.',
+    'description' => 'This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the "Feather Icons" in TYPO3.',
     'category' => 'fe',
     'state' => 'stable',
     'clearcacheonload' => true,
