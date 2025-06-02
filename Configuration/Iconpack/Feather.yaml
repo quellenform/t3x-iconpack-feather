@@ -16,6 +16,5 @@ iconpack:
       source: "EXT:iconpack_feather/Resources/Public/Vendor/feather/svgs/"
       attributes:
         class: "feather"
-        role: "img"
 
   icons: "EXT:iconpack_feather/Resources/Public/Vendor/feather/metadata/icons.yml"
